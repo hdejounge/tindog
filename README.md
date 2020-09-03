@@ -1,4 +1,6 @@
 # tindog
 tindog - tinder but for dogs
-Developed using CSS bootstrap
+<br>
+Developed using CSS Bootstrap
+<br>
 View webpage at: https://hdejounge.github.io/tindog/
